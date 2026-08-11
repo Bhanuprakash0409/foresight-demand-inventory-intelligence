@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# FORESIGHT Project - Confidential Data
+data/raw/
+data/processed/
+
+# Trained models
+models/
+
+# Local environment files
+.env
+
+# Local IDE settings
+.vscode/
+.idea/
